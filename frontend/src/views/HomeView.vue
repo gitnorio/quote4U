@@ -1,9 +1,11 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <h1>Welcome to Quote4U</h1>
+    <p>Your personal quote management system.</p>
+
   </main>
 </template>
